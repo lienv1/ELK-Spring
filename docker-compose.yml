@@ -56,7 +56,6 @@ services:
     volumes:
       - ./certs:/usr/share/kibana/config/certs
     environment:
-      #- ELASTICSEARCH_HOSTS=["http://elasticsearch:9200"]
       - ELASTICSEARCH_HOSTS=["https://elasticsearch:9200"]
       - ELASTICSEARCH_USERNAME=${ELASTIC_USERNAME}
       - ELASTICSEARCH_PASSWORD=${ELASTIC_PASSWORD}
