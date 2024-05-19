@@ -4,6 +4,8 @@ services:
   springbootelk:
     build: ./ELK-Demo
     container_name: springbootelk
+    environment:
+      - SWAGGER_PREFIX=/spring
     volumes:
         - ./ELK-Demo/logs:/app/logs/
     ports:
