@@ -1,4 +1,7 @@
 # ELK-Spring
+
+![Diagram](https://raw.githubusercontent.com/lienv1/ELK-Spring/main/Architecture.png)
+
 This project is a simulation tool designed to test and inspect log files using the ELK stack (Elasticsearch, Logstash, and Kibana). It features a Spring Boot application that can generate multiple log files through GET requests to specific endpoints:
 
 1. /api/warning generates warn.log
