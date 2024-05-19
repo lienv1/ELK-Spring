@@ -1,0 +1,28 @@
+2024-05-18 23:43:06 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication using Java 17.0.6 with PID 13684 (C:\Users\bobby\Downloads\Experiment\7.2 ELK\ELK-Demo\target\classes started by bobby in C:\Users\bobby\Downloads\Experiment\7.2 ELK\ELK-Demo)
+2024-05-18 23:43:06 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-18 23:43:08 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-18 23:43:08 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-18 23:43:08 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-18 23:43:08 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-18 23:43:08 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-18 23:43:08 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1751 ms
+2024-05-18 23:43:08 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-18 23:43:08 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-18 23:43:08 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 3.146 seconds (process running for 3.581)
+2024-05-18 23:43:25 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-18 23:43:25 - INFO - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-18 23:43:25 - INFO - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-18 23:43:59 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication using Java 17.0.6 with PID 4596 (C:\Users\bobby\Downloads\Experiment\7.2 ELK\ELK-Demo\target\classes started by bobby in C:\Users\bobby\Downloads\Experiment\7.2 ELK\ELK-Demo)
+2024-05-18 23:43:59 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-18 23:44:01 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-18 23:44:01 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-18 23:44:01 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-18 23:44:01 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-18 23:44:01 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-18 23:44:01 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1550 ms
+2024-05-18 23:44:01 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-18 23:44:02 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-18 23:44:02 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 2.897 seconds (process running for 3.429)
+2024-05-18 23:44:24 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-18 23:44:24 - INFO - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-18 23:44:24 - INFO - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
