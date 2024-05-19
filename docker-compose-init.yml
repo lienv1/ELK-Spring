@@ -1,6 +1,12 @@
 version: '3.7'
 services:
 
+  opensslgenerator:
+    build: ./SSLGenerator
+    container_name: opensslgenerator
+    volumes:
+      - ./certs:/app/certs
+
   springbootelk:
     build: ./ELK-Demo
     container_name: springbootelk
@@ -35,6 +41,8 @@ services:
     #ports:
      # - "9200:9200"
      # - "9300:9300"
+    depends_on:
+      - opensslgenerator
 
   logstash:
     image: docker.elastic.co/logstash/logstash:7.10.0

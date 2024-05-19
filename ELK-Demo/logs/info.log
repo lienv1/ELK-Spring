@@ -48,3 +48,203 @@
 2024-05-19 00:57:46 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2024-05-19 00:57:47 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
 2024-05-19 00:57:47 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 10.964 seconds (process running for 13.581)
+2024-05-19 01:35:51 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 01:35:51 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 01:35:59 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 01:35:59 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 01:35:59 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 01:35:59 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 01:36:00 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 01:36:00 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 8254 ms
+2024-05-19 01:36:05 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 01:36:05 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 01:36:05 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 17.297 seconds (process running for 20.295)
+2024-05-19 01:36:06 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-19 01:36:06 - INFO - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-19 01:36:06 - INFO - o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-05-19 01:36:09 - INFO - o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 1741 ms
+2024-05-19 02:56:34 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 02:56:34 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 02:56:38 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 02:56:38 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 02:56:38 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 02:56:38 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 02:56:38 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 02:56:38 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3449 ms
+2024-05-19 02:56:40 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 02:56:40 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 02:56:40 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 8.297 seconds (process running for 10.354)
+2024-05-19 03:13:43 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 03:13:43 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 03:13:47 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 03:13:47 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:13:47 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 03:13:47 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 03:13:47 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 03:13:47 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3683 ms
+2024-05-19 03:13:49 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:13:49 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 03:13:50 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 8.087 seconds (process running for 9.754)
+2024-05-19 03:15:43 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 03:15:43 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 03:15:47 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 03:15:47 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:15:47 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 03:15:47 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 03:15:47 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 03:15:47 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3530 ms
+2024-05-19 03:15:49 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:15:49 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 03:15:50 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 8.153 seconds (process running for 9.541)
+2024-05-19 03:34:21 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 03:34:21 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 03:34:26 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 03:34:27 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:34:27 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 03:34:27 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 03:34:27 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 03:34:27 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5538 ms
+2024-05-19 03:34:31 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 03:34:31 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 03:34:31 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 14.268 seconds (process running for 16.078)
+2024-05-19 13:19:33 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 13:19:33 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 13:19:39 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 13:19:39 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 13:19:39 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 13:19:39 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 13:19:39 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 13:19:39 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5407 ms
+2024-05-19 13:19:42 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 13:19:42 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 13:19:42 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 10.809 seconds (process running for 12.536)
+2024-05-19 13:58:49 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 13:58:49 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 13:58:53 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 13:58:53 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 13:58:54 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 13:58:54 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 13:58:54 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 13:58:54 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4228 ms
+2024-05-19 13:58:56 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 13:58:56 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 13:58:56 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 9.353 seconds (process running for 10.884)
+2024-05-19 14:12:36 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 14:12:36 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 14:12:40 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 14:12:41 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 14:12:41 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 14:12:41 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 14:12:41 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 14:12:41 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4642 ms
+2024-05-19 14:12:43 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 14:12:43 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 14:12:43 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 9.652 seconds (process running for 11.373)
+2024-05-19 14:13:27 - INFO - o.a.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x8c0x010x000x020x880x030x030xdc\0xd50x0a0x1c0xa90x11.0x0e^0x830xdc0xbcQ:0x890x1b0xda0x16M0x030xe0Zx0x050xc0$60x950xa1Q0xef ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2024-05-19 14:13:27 - INFO - o.a.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x8c0x010x000x020x880x030x03V0x860xd20xd60xec0xe3y0xc30xb90xf20xc90xf50x810xf9&0xd3qt0xb50xc30x800xf30x090x06U0xc60x920x810xbcU0x8du ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2024-05-19 14:34:57 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 14:34:57 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 14:35:01 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 14:35:01 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 14:35:01 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 14:35:01 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 14:35:01 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 14:35:01 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3436 ms
+2024-05-19 14:35:03 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 14:35:03 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 14:35:03 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 8.109 seconds (process running for 9.247)
+2024-05-19 16:46:24 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 16:46:24 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 16:46:29 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 16:46:29 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 16:46:29 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 16:46:29 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 16:46:29 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 16:46:29 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5363 ms
+2024-05-19 16:46:32 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 16:46:32 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 16:46:33 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 12.482 seconds (process running for 14.543)
+2024-05-19 17:24:32 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 17:24:32 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 17:24:36 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 17:24:36 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:24:36 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 17:24:36 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 17:24:36 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 17:24:36 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3842 ms
+2024-05-19 17:24:39 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:24:39 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 17:24:40 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 10.312 seconds (process running for 11.774)
+2024-05-19 17:26:36 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 17:26:36 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 17:26:40 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 17:26:40 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:26:40 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 17:26:40 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 17:26:40 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 17:26:40 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4281 ms
+2024-05-19 17:26:43 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:26:43 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 17:26:43 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 10.165 seconds (process running for 11.805)
+2024-05-19 17:28:20 - INFO - o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:29:02 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 17:29:02 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 17:29:06 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 17:29:06 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:29:06 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 17:29:06 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 17:29:06 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 17:29:06 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4165 ms
+2024-05-19 17:29:09 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 17:29:09 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 17:29:09 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 9.318 seconds (process running for 10.507)
+2024-05-19 17:50:19 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-19 17:50:19 - INFO - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-19 17:50:19 - INFO - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-19 17:50:24 - INFO - o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 131 ms
+2024-05-19 18:13:18 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 18:13:18 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 18:13:24 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 18:13:24 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 18:13:24 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 18:13:24 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 18:13:24 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 18:13:24 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5993 ms
+2024-05-19 18:13:27 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 18:13:27 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 18:13:27 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 13.612 seconds (process running for 15.29)
+2024-05-19 18:41:33 - INFO - c.e.ELKDemo.ElkDemoApplication - Starting ElkDemoApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app/app.jar started by root in /app)
+2024-05-19 18:41:33 - INFO - c.e.ELKDemo.ElkDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-19 18:41:39 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-19 18:41:39 - INFO - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-19 18:41:39 - INFO - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-19 18:41:39 - INFO - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19 18:41:39 - INFO - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-19 18:41:39 - INFO - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5598 ms
+2024-05-19 18:41:43 - INFO - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-19 18:41:43 - INFO - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-19 18:41:44 - INFO - c.e.ELKDemo.ElkDemoApplication - Started ElkDemoApplication in 12.52 seconds (process running for 14.04)
