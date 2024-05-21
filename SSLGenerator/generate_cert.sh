@@ -1,3 +1,4 @@
+#!bin/sh
 openssl genrsa -out certs/ca.key 2048
 openssl req -x509 -new -nodes -key certs/ca.key -sha256 -days 1024 -out certs/ca.crt -subj "/C=US/ST=State/L=City/O=Organization/OU=OrgUnit/CN=example.com"
 openssl genrsa -out certs/elasticsearch.key 2048
